@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("devhabit.api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a893a90bca2e4c1d1944269a960d9ad81fe2d12")]
 [assembly: System.Reflection.AssemblyProductAttribute("devhabit.api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("devhabit.api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
