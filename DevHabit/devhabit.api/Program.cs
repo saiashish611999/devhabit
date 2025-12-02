@@ -1,3 +1,8 @@
+using devhabit.api.Database;
+using devhabit.api.Extensions;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Migrations;
+using Npgsql;
 using OpenTelemetry;
 using OpenTelemetry.Metrics;
 using OpenTelemetry.Resources;
@@ -10,6 +15,13 @@ builder.Services.AddOpenApi();
 
 builder.Services.AddControllers();
 
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+{
+    options.UseNpgsql(builder.Configuration.GetConnectionString("database"),
+            npgsqloptions => npgsqloptions.MigrationsHistoryTable(HistoryRepository.DefaultTableName, Schemas.Application))
+           .UseSnakeCaseNamingConvention();
+});
+
 builder.Services.AddOpenTelemetry()
                 .ConfigureResource(resource => 
                 {
@@ -17,9 +29,13 @@ builder.Services.AddOpenTelemetry()
                     
                 })
                 .WithTracing(tracing =>
+
+
                 {
                     tracing.AddHttpClientInstrumentation()
-                           .AddAspNetCoreInstrumentation();
+                           .AddAspNetCoreInstrumentation()
+                           ;
+                    tracing.AddNpgsql();
                 })
                 .WithMetrics(metrics =>
                 {
@@ -43,6 +59,8 @@ WebApplication app = builder.Build();
 if (app.Environment.IsDevelopment())
 {
     app.MapOpenApi();
+
+    await app.ApplyMigrationsAsync();
 }
 
 app.UseHttpsRedirection();

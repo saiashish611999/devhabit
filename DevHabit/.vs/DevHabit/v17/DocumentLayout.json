@@ -1,7 +1,52 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AEE4E0-0114-4AAC-A1B0-561125AEB3F1}|devhabit.api\\devhabit.api.csproj|c:\\users\\sai ashish\\desktop\\project\\devhabit\\devhabit.api\\migrations\\application\\20251202082856_add_habits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AEE4E0-0114-4AAC-A1B0-561125AEB3F1}|devhabit.api\\devhabit.api.csproj|solutionrelative:devhabit.api\\migrations\\application\\20251202082856_add_habits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AEE4E0-0114-4AAC-A1B0-561125AEB3F1}|devhabit.api\\devhabit.api.csproj|c:\\users\\sai ashish\\desktop\\project\\devhabit\\devhabit.api\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AEE4E0-0114-4AAC-A1B0-561125AEB3F1}|devhabit.api\\devhabit.api.csproj|solutionrelative:devhabit.api\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AEE4E0-0114-4AAC-A1B0-561125AEB3F1}|devhabit.api\\devhabit.api.csproj|c:\\users\\sai ashish\\desktop\\project\\devhabit\\devhabit.api\\database\\configurations\\habitconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AEE4E0-0114-4AAC-A1B0-561125AEB3F1}|devhabit.api\\devhabit.api.csproj|solutionrelative:devhabit.api\\database\\configurations\\habitconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AEE4E0-0114-4AAC-A1B0-561125AEB3F1}|devhabit.api\\devhabit.api.csproj|c:\\users\\sai ashish\\desktop\\project\\devhabit\\devhabit.api\\entities\\habit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AEE4E0-0114-4AAC-A1B0-561125AEB3F1}|devhabit.api\\devhabit.api.csproj|solutionrelative:devhabit.api\\entities\\habit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AEE4E0-0114-4AAC-A1B0-561125AEB3F1}|devhabit.api\\devhabit.api.csproj|c:\\users\\sai ashish\\desktop\\project\\devhabit\\devhabit.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AEE4E0-0114-4AAC-A1B0-561125AEB3F1}|devhabit.api\\devhabit.api.csproj|solutionrelative:devhabit.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AEE4E0-0114-4AAC-A1B0-561125AEB3F1}|devhabit.api\\devhabit.api.csproj|c:\\users\\sai ashish\\desktop\\project\\devhabit\\devhabit.api\\extensions\\databasemigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AEE4E0-0114-4AAC-A1B0-561125AEB3F1}|devhabit.api\\devhabit.api.csproj|solutionrelative:devhabit.api\\extensions\\databasemigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AEE4E0-0114-4AAC-A1B0-561125AEB3F1}|devhabit.api\\devhabit.api.csproj|c:\\users\\sai ashish\\desktop\\project\\devhabit\\devhabit.api\\devhabit.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A4AEE4E0-0114-4AAC-A1B0-561125AEB3F1}|devhabit.api\\devhabit.api.csproj|solutionrelative:devhabit.api\\devhabit.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AEE4E0-0114-4AAC-A1B0-561125AEB3F1}|devhabit.api\\devhabit.api.csproj|c:\\users\\sai ashish\\desktop\\project\\devhabit\\devhabit.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4AEE4E0-0114-4AAC-A1B0-561125AEB3F1}|devhabit.api\\devhabit.api.csproj|solutionrelative:devhabit.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\sai ashish\\desktop\\project\\devhabit\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AEE4E0-0114-4AAC-A1B0-561125AEB3F1}|devhabit.api\\devhabit.api.csproj|c:\\users\\sai ashish\\desktop\\project\\devhabit\\devhabit.api\\database\\schemas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AEE4E0-0114-4AAC-A1B0-561125AEB3F1}|devhabit.api\\devhabit.api.csproj|solutionrelative:devhabit.api\\database\\schemas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\Directory.Packages.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:Directory.Packages.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +54,151 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251202082856_Add_Habits.cs",
+              "DocumentMoniker": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\devhabit.api\\Migrations\\Application\\20251202082856_Add_Habits.cs",
+              "RelativeDocumentMoniker": "devhabit.api\\Migrations\\Application\\20251202082856_Add_Habits.cs",
+              "ToolTip": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\devhabit.api\\Migrations\\Application\\20251202082856_Add_Habits.cs",
+              "RelativeToolTip": "devhabit.api\\Migrations\\Application\\20251202082856_Add_Habits.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T08:28:56.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HabitConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\devhabit.api\\Database\\Configurations\\HabitConfiguration.cs",
+              "RelativeDocumentMoniker": "devhabit.api\\Database\\Configurations\\HabitConfiguration.cs",
+              "ToolTip": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\devhabit.api\\Database\\Configurations\\HabitConfiguration.cs",
+              "RelativeToolTip": "devhabit.api\\Database\\Configurations\\HabitConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T08:21:21.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Habit.cs",
+              "DocumentMoniker": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\devhabit.api\\Entities\\Habit.cs",
+              "RelativeDocumentMoniker": "devhabit.api\\Entities\\Habit.cs",
+              "ToolTip": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\devhabit.api\\Entities\\Habit.cs",
+              "RelativeToolTip": "devhabit.api\\Entities\\Habit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T08:11:31.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseMigrations.cs",
+              "DocumentMoniker": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\devhabit.api\\Extensions\\DatabaseMigrations.cs",
+              "RelativeDocumentMoniker": "devhabit.api\\Extensions\\DatabaseMigrations.cs",
+              "ToolTip": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\devhabit.api\\Extensions\\DatabaseMigrations.cs",
+              "RelativeToolTip": "devhabit.api\\Extensions\\DatabaseMigrations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T08:06:25.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-12-02T08:00:47.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\devhabit.api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "devhabit.api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\devhabit.api\\appsettings.Development.json",
+              "RelativeToolTip": "devhabit.api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-02T08:00:26.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Schemas.cs",
+              "DocumentMoniker": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\devhabit.api\\Database\\Schemas.cs",
+              "RelativeDocumentMoniker": "devhabit.api\\Database\\Schemas.cs",
+              "ToolTip": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\devhabit.api\\Database\\Schemas.cs",
+              "RelativeToolTip": "devhabit.api\\Database\\Schemas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T07:55:47.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\devhabit.api\\Database\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "devhabit.api\\Database\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\devhabit.api\\Database\\ApplicationDbContext.cs",
+              "RelativeToolTip": "devhabit.api\\Database\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T07:52:47.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Directory.Packages.props",
+              "DocumentMoniker": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\Directory.Packages.props",
+              "RelativeDocumentMoniker": "Directory.Packages.props",
+              "ToolTip": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\Directory.Packages.props",
+              "RelativeToolTip": "Directory.Packages.props",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-12-02T07:52:09.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "devhabit.api",
+              "DocumentMoniker": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\devhabit.api\\devhabit.api.csproj",
+              "RelativeDocumentMoniker": "devhabit.api\\devhabit.api.csproj",
+              "ToolTip": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\devhabit.api\\devhabit.api.csproj",
+              "RelativeToolTip": "devhabit.api\\devhabit.api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-02T07:51:56.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\devhabit.api\\Program.cs",
+              "RelativeDocumentMoniker": "devhabit.api\\Program.cs",
+              "ToolTip": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\devhabit.api\\Program.cs",
+              "RelativeToolTip": "devhabit.api\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T07:41:55.096Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"

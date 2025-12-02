@@ -53,7 +53,24 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "EFCore.NamingConventions": {
+              "target": "Package",
+              "version": "[9.0.0, )",
+              "versionCentrallyManaged": true
+            },
             "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.1, )",
               "versionCentrallyManaged": true
@@ -61,6 +78,16 @@
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
               "version": "[1.21.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Npgsql.OpenTelemetry": {
+              "target": "Package",
+              "version": "[9.0.1, )",
               "versionCentrallyManaged": true
             },
             "OpenTelemetry.Exporter.OpenTelemetryProtocol": {
@@ -97,8 +124,13 @@
             }
           },
           "centralPackageVersions": {
+            "EFCore.NamingConventions": "9.0.0",
             "Microsoft.AspNetCore.OpenApi": "9.0.1",
+            "Microsoft.EntityFrameworkCore": "9.0.1",
+            "Microsoft.EntityFrameworkCore.Tools": "9.0.1",
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.21.0",
+            "Npgsql.EntityFrameworkCore.PostgreSQL": "9.0.1",
+            "Npgsql.OpenTelemetry": "9.0.1",
             "OpenTelemetry.Exporter.OpenTelemetryProtocol": "1.11.1",
             "OpenTelemetry.Extensions.Hosting": "1.11.1",
             "OpenTelemetry.Instrumentation.AspNetCore": "1.11.0",
