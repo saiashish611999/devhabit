@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AEE4E0-0114-4AAC-A1B0-561125AEB3F1}|devhabit.api\\devhabit.api.csproj|c:\\users\\sai ashish\\desktop\\project\\devhabit\\devhabit.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AEE4E0-0114-4AAC-A1B0-561125AEB3F1}|devhabit.api\\devhabit.api.csproj|solutionrelative:devhabit.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AEE4E0-0114-4AAC-A1B0-561125AEB3F1}|devhabit.api\\devhabit.api.csproj|c:\\users\\sai ashish\\desktop\\project\\devhabit\\devhabit.api\\devhabit.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A4AEE4E0-0114-4AAC-A1B0-561125AEB3F1}|devhabit.api\\devhabit.api.csproj|solutionrelative:devhabit.api\\devhabit.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AEE4E0-0114-4AAC-A1B0-561125AEB3F1}|devhabit.api\\devhabit.api.csproj|c:\\users\\sai ashish\\desktop\\project\\devhabit\\devhabit.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4AEE4E0-0114-4AAC-A1B0-561125AEB3F1}|devhabit.api\\devhabit.api.csproj|solutionrelative:devhabit.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\sai ashish\\desktop\\project\\devhabit\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AEE4E0-0114-4AAC-A1B0-561125AEB3F1}|devhabit.api\\devhabit.api.csproj|c:\\users\\sai ashish\\desktop\\project\\devhabit\\devhabit.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A4AEE4E0-0114-4AAC-A1B0-561125AEB3F1}|devhabit.api\\devhabit.api.csproj|solutionrelative:devhabit.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AEE4E0-0114-4AAC-A1B0-561125AEB3F1}|devhabit.api\\devhabit.api.csproj|c:\\users\\sai ashish\\desktop\\project\\devhabit\\devhabit.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4AEE4E0-0114-4AAC-A1B0-561125AEB3F1}|devhabit.api\\devhabit.api.csproj|solutionrelative:devhabit.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AEE4E0-0114-4AAC-A1B0-561125AEB3F1}|devhabit.api\\devhabit.api.csproj|c:\\users\\sai ashish\\desktop\\project\\devhabit\\devhabit.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AEE4E0-0114-4AAC-A1B0-561125AEB3F1}|devhabit.api\\devhabit.api.csproj|solutionrelative:devhabit.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AEE4E0-0114-4AAC-A1B0-561125AEB3F1}|devhabit.api\\devhabit.api.csproj|c:\\users\\sai ashish\\desktop\\project\\devhabit\\devhabit.api\\devhabit.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A4AEE4E0-0114-4AAC-A1B0-561125AEB3F1}|devhabit.api\\devhabit.api.csproj|solutionrelative:devhabit.api\\devhabit.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AEE4E0-0114-4AAC-A1B0-561125AEB3F1}|devhabit.api\\devhabit.api.csproj|c:\\users\\sai ashish\\desktop\\project\\devhabit\\devhabit.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AEE4E0-0114-4AAC-A1B0-561125AEB3F1}|devhabit.api\\devhabit.api.csproj|solutionrelative:devhabit.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\Directory.Packages.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:Directory.Packages.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\Directory.Build.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:Directory.Build.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "devhabit.api.http",
+              "DocumentMoniker": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\devhabit.api\\devhabit.api.http",
+              "RelativeDocumentMoniker": "devhabit.api\\devhabit.api.http",
+              "ToolTip": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\devhabit.api\\devhabit.api.http",
+              "RelativeToolTip": "devhabit.api\\devhabit.api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-12-02T05:52:29.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\devhabit.api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "devhabit.api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\devhabit.api\\appsettings.Development.json",
+              "RelativeToolTip": "devhabit.api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-02T05:49:21.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\devhabit.api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "devhabit.api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\devhabit.api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "devhabit.api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-02T05:41:42.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-12-02T04:29:58.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\devhabit.api\\Dockerfile",
+              "RelativeDocumentMoniker": "devhabit.api\\Dockerfile",
+              "ToolTip": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\devhabit.api\\Dockerfile",
+              "RelativeToolTip": "devhabit.api\\Dockerfile",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-02T04:29:42.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\devhabit.api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "devhabit.api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\devhabit.api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "devhabit.api\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T04:20:55.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\devhabit.api\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "devhabit.api\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\devhabit.api\\WeatherForecast.cs",
+              "RelativeToolTip": "devhabit.api\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T04:20:42.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\.editorconfig",
+              "RelativeDocumentMoniker": ".editorconfig",
+              "ToolTip": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\.editorconfig",
+              "RelativeToolTip": ".editorconfig",
+              "ViewState": "AgIAAIIBAAAAAAAAAAAqwKgBAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-02T04:15:22.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Directory.Packages.props",
+              "DocumentMoniker": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\Directory.Packages.props",
+              "RelativeDocumentMoniker": "Directory.Packages.props",
+              "ToolTip": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\Directory.Packages.props",
+              "RelativeToolTip": "Directory.Packages.props",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-12-02T04:14:13.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Directory.Build.props",
+              "DocumentMoniker": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\Directory.Build.props",
+              "RelativeDocumentMoniker": "Directory.Build.props",
+              "ToolTip": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\Directory.Build.props",
+              "RelativeToolTip": "Directory.Build.props",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-12-02T04:13:20.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "devhabit.api",
+              "DocumentMoniker": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\devhabit.api\\devhabit.api.csproj",
+              "RelativeDocumentMoniker": "devhabit.api\\devhabit.api.csproj",
+              "ToolTip": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\devhabit.api\\devhabit.api.csproj",
+              "RelativeToolTip": "devhabit.api\\devhabit.api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-02T04:12:35.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\devhabit.api\\Program.cs",
+              "RelativeDocumentMoniker": "devhabit.api\\Program.cs",
+              "ToolTip": "C:\\Users\\SAI ASHISH\\Desktop\\project\\DevHabit\\devhabit.api\\Program.cs",
+              "RelativeToolTip": "devhabit.api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T04:12:18.757Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
